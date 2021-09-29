@@ -33,11 +33,7 @@ GIVEN a command-line application that accepts user input
 
 ## SOLUTION:
 
-🗂️ [Github Repository](https://github.com/DionneNoellaBarretto/10-ObjectOrientedProgramming_TeamProfileGenerator_Node.js_andJestUnitTests)
-
-📄 [Example Github Page](https://dionnenoellabarretto.github.io/10-ObjectOrientedProgramming_TeamProfileGenerator_Node.js_andJestUnitTests/FrontEnd%20Team)
-
-📄 [Another Example Github Page](https://dionnenoellabarretto.github.io/10-ObjectOrientedProgramming_TeamProfileGenerator_Node.js_andJestUnitTests/Cloud%20Team)
+🗂️ [Github Repository](https://github.com/cakspri/Team-Profile-Generator)
 
 ## Mock-Up
 Clickable link(s): navigate to github, university or local mail client
