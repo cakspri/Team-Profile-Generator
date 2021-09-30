@@ -40,11 +40,6 @@ Clickable link(s): navigate to github, university or local mail client
 Unit Test Pass Report:
 ![Test](./supplemental/Test.png?raw=true "Test")
 
-Input:
-![Example](./supplemental/Example.png?raw=true "Example")
-
-Responsive layout on different screen sizes looks as follows:
-
 Desktop View:
 
 ![DesktopView](./supplemental/DesktopView.png?raw=true "DesktopView")
